@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valfa\\OneDrive\\Escritorio\\yourFirstJob\\yourFirstJobBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5ED599-B1AA-49F2-922C-EE00AEB0E7D7}|yourFirstJobBack\\yourFirstJobBack.csproj|c:\\users\\valfa\\onedrive\\escritorio\\yourfirstjob\\yourfirstjobback\\yourfirstjobback\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5ED599-B1AA-49F2-922C-EE00AEB0E7D7}|yourFirstJobBack\\yourFirstJobBack.csproj|solutionrelative:yourfirstjobback\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{27b16481-d009-4608-959c-360b8895c231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\valfa\\OneDrive\\Escritorio\\yourFirstJob\\yourFirstJobBack\\yourFirstJobBack\\Class1.cs",
+              "RelativeDocumentMoniker": "yourFirstJobBack\\Class1.cs",
+              "ToolTip": "C:\\Users\\valfa\\OneDrive\\Escritorio\\yourFirstJob\\yourFirstJobBack\\yourFirstJobBack\\Class1.cs",
+              "RelativeToolTip": "yourFirstJobBack\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T03:16:12.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
